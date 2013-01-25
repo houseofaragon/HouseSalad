@@ -1,7 +1,11 @@
 HouseSalad
 ==========
 
-Iphone app allows a user to read articles from the NYTimes and Fox News 
-RSS feed then visualizes tweets that relate to the article on an interactive map.
+An intelligent news app for the iPhone. 
 
-Uses the KMXMLParser. (Thank you)
++ Enables users to read scrollable content. 
++ Provides an interactive map of twitter feeds based on an article chosen by the user.
++ Makes you feel connected to the world.
++ Is good for the soul.
+
++ Still in development mode.
